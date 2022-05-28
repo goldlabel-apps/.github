@@ -7,5 +7,6 @@
 
 ## Software
 
-- **Higher Order Framework**; a JavaScript framework with React, Single SPA, TypeScript, Firebase & Pingpong
-- **Pingpong** for WodPress
+- **Higher Order Framework**; a JavaScript framework with React, Single SPA, TypeScript, Firebase & Pingpong 
+
+- **Pingpong** for WordPress
