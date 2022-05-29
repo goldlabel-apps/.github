@@ -1,12 +1,9 @@
 # ![logo](https://listingslab.com/logo.svg) Listingslab Software
 
-## Links
+## Work, Life, Balance
 
-- [Listingslab Mothership](https://listingslab.com/mothership)
-- [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+![featured](https://listingslab.com/svg/featured/team.svg)
 
-## Software
-
-- **Higher Order Framework**; a JavaScript framework with React, Single SPA, TypeScript, Firebase & Pingpong 
-
-- **Pingpong** for WordPress
+### Links
+- [listingslab.com](https://listingslab.com/mothership)
+- [Markdown Guide](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
