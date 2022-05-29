@@ -1,4 +1,4 @@
-# ![logo](https://listingslab.com/logo.svg) Listingslab Software
+# Listingslab Software
 
 ## Work, Life, Balance
 
