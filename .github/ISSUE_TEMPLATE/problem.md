@@ -1,13 +1,13 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: 'Bug report'
+name: Problem
+about: Create a Problem report to help us improve
+title: 'Problem'
 assignees: 'listingslab'
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Describe the Problem**
+A clear and concise description of what the Problem is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
