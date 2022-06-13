@@ -2,7 +2,9 @@
 
 ### @listingslab/flash
 
-We have ridiculously and pointlessly reinvented MacroMedia Flash with React JS so you never have to. You're welcome
+[NPM @listingslab/flash](https://www.npmjs.com/package/@listingslab/flash)
+
+> We have ridiculously and pointlessly reinvented MacroMedia Flash with React JS so you never have to. You're welcome
 
 - Built in markdown docs to get you started
 - SVG Graphics
