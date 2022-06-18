@@ -1,7 +1,7 @@
 ---
-name: Do This
+name: Task
 about: Capture anything you see needs doing
-title: 'This needs doing...'
+title: 'Task)'
 labels: ''
 assignees: ''
 
