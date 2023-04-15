@@ -1,0 +1,11 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "- We always knew GitHub was special [Create Bug](./.github/ISSUE_TEMPLATE/bug_report.md) - What you sayin, fam? [Create an Idea](./.github/ISSUE_TEMPLATE/an_idea.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
