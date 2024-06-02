@@ -1,5 +1,3 @@
-## Listingslab Software
+## Goldlabel Apps
 
-We've been creating PWAs like [this](https://listingslab.com/?github) for years. A single codebase compiling to an easily deployable JavaScript app which works anywhere JavaScript does. Which is anywhere. Any viewport. Any device. It does not need to be installed via app stores.
-
-The techstack combines React, TypeScript, Material UI, Redux Toolkit Gatsby, Contentful, and RAAF to produce a modern, fast frontend experience which works like native anywhere
+Goldlabel is a wholly owned subsidiary of Listingslab. 100% of the shares currently belonging to the founder. It's currently open to investment for up to 49% of the shares
